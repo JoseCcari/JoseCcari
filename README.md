@@ -1,16 +1,59 @@
-### Hi there 👋
+## Hi there 👋
+<h2 align="center"> I am José Ccari , I am Full Stack Web Developer.</h2>
+<br>  
 
-<!--
-**JoseCcari/JoseCcari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![widh: 30px](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me🧑:
+
+- 🎓 I'm a Computer Science Last Year Student at [San Agustin National University, Arequipa](https://www.unsa.edu.pe/en/).
+- 📝 I have a strong interest in Backend Development.
+- 🌟 Main languages: JavaScript , Python , C++.
+- 🌱 I’m currently learning : Rust.
+- 📫 How to reach me **josecari19999@gmail.com**
+
+
+<br>
+
+  # 💻Tech Stack 
+  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234ea94b.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-%2300f.svg?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+  
+  
+  
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JoseCcari&label=Profile%20views&color=0e75b6&style=plastic" alt="JoseCcari" /> </p>
+
+## 🔥 Streak Stats
+
+JoseCcari
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JoseCcari&show_icons=true&theme=algolia" alt="JoseCcari"/></p>
+
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseCcari&theme=algolia" alt="JoseCcari"  /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCcari&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="JoseCcari"  /></p>
+
+
+Connect with me!
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/josecari) [<img src = "https://img.shields.io/badge/gmail-%2320A1F1.svg?&style=for-the-badge&logo=gmail&logoColor=white">](josecari19999@gmail.com)  
+
