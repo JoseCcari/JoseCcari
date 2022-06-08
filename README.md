@@ -1,6 +1,6 @@
 ## Hi there 👋
-<h2 align="center"> I am José Ccari , I am Full Stack Web Developer.&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <a href="https://linkedin.com/in/sudnyeshtalekar">
-  <img align="rigth" alt="Sudnyesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<h2 align="center"> I am José Ccari , I am Full Stack Web Developer.&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <a href="https://www.linkedin.com/in/josecari">
+  <img align="rigth" alt="JoseCcari Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a></h2>
 <br>  
 
