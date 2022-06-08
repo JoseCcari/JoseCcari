@@ -1,9 +1,8 @@
 ## Hi there 👋
-<h2 align="center"> I am José Ccari , I am Full Stack Web Developer.</h2>
+<h2 align="center"> I am José Ccari , I am Full Stack Web Developer.&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <a href="https://linkedin.com/in/sudnyeshtalekar">
+  <img align="rigth" alt="Sudnyesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a></h2>
 <br>  
-
-![widh: 30px](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
 
 ### About me🧑:
 
@@ -13,7 +12,7 @@
 - 🌱 I’m currently learning : Rust.
 - 📫 How to reach me **josecari19999@gmail.com**
 
-
+![widh: 30px](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 <br>
 
   # 💻Tech Stack 
@@ -36,10 +35,14 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
   
-  
-  
-
+ 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JoseCcari&label=Profile%20views&color=0e75b6&style=plastic" alt="JoseCcari" /> </p>
+
+## 🛠️ Projects and Contributions
+
+- [`Exmine`](https://github.com/JoseCcari/Final-Project-Exmine) An e-commerce website. Sells ASICs GPUs and general crypto mining hardware.
+- [`VideoGames`](https://github.com/JoseCcari/VideogamesPage) A single page application that allows you to create, filter, search for a Videogame.
+- [`Weather App`](https://github.com/JoseCcari/WeatherApp-react) A Weather Application using React
 
 ## 🔥 Streak Stats
 
@@ -51,7 +54,15 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCcari&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="JoseCcari"  /></p>
 
 
-Connect with me!
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/josecari) [<img src = "https://img.shields.io/badge/gmail-%2320A1F1.svg?&style=for-the-badge&logo=gmail&logoColor=white">](josecari19999@gmail.com)  
+## 📫 How to reach me
+
+You can e-mail me directly: josecari19999@gmail.com , or contact me :
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/josecari) 
+
+<div align="center">
+
+### I ❤️ code!
+
+</div>
 
