@@ -56,9 +56,8 @@
 
 ## 📫 How to reach me
 
-You can e-mail me directly: josecari19999@gmail.com , or contact me :
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/josecari) 
+[![gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osecari19999@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josecari) 
 
 <div align="center">
 
