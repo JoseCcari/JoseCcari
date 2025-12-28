@@ -4,13 +4,15 @@
 </a></h2>
 <br>  
 
-### About me🧑:
+### About me 🧑‍💻
 
-- 🎓 I'm a Computer Science Last Year Student at [San Agustin National University, Arequipa](https://www.unsa.edu.pe/en/).
-- 📝 I have a strong interest in Backend Development.
-- 🌟 Main languages: JavaScript , Python , C++.
-- 🌱 I’m currently learning : TypeScript.
-- 📫 How to reach me **josecari19999@gmail.com**
+- 🎓 Computer Science background from [San Agustin National University, Arequipa](https://www.unsa.edu.pe/en/).
+- 💻 Full Stack Developer focused on React, TypeScript, and Node.js.
+- 🛠️ Experience working with APIs, databases, and production systems.
+- 🌟 Main technologies: JavaScript, TypeScript, Python.
+- 📫 Contact: **josecari20000@gmail.com**
+
+
 
 ![widh: 30px](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 <br>
